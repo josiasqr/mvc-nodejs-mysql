@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-example",
+  "version": "1.0.0",
+  "description": "Application CRUD with nodejs and mysql",
+  "main": "app.js",
+  "scripts": {
+    "dev": "npx nodemon app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jotaqr",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "express-validator": "^6.14.0",
+    "method-override": "^3.0.0",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
