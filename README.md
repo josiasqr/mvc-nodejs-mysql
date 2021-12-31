@@ -1,4 +1,4 @@
 # mvc-nodejs-mysql
 npm install
-# img 
+# Screenshot
 ![Screenshot](./public/img/index.png)
